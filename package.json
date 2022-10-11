@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-cv",
+  "version": "1.0.0",
+  "description": "Portfolio-cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camila-Pletscher/Portfolio-cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camila-Pletscher/Portfolio-cv/issues"
+  },
+  "homepage": "https://github.com/Camila-Pletscher/Portfolio-cv#readme"
+}
